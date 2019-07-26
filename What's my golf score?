@@ -1,4 +1,4 @@
-Introduction
+Introduction 
 I have the par value for each hole on a golf course and my stroke score on each hole. I have them stored as strings because I wrote them down on a sheet of paper. Right now, I'm using those strings to calculate my golf score by hand. To do so, I use the following procedure:
 
 Take the difference between my actual score on hole 1 and the par of hole 1. Write down the result.
